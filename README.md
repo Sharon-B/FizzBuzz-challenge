@@ -1,5 +1,3 @@
-Your challenge is to write some tests for the FizzBuzz game.
-
 FizzBuzz is a classic programming problem that is often asked as an interview question. Create a function called fizzBuzz. This function should take in number as a parameter. The function should do the following:
 
 If the number is divisible by 3 and 5, then return "FizzBuzz"
